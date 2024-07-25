@@ -14,7 +14,7 @@ const Home = () => {
   const adjustIslandForScreenSize = () =>
   {
     let screenScale = null;
-    let screenPosition = [0, -6.5, -43];
+    let screenPosition = [0, -6.5, -39];
     let rotation = [0.1, 4.7, 0]
 
     if(window.innerWidth < 768) {
@@ -69,8 +69,8 @@ const Home = () => {
         />
         <Plane 
         isRotating={isRotating}
-        planeScale={planeScale}
-        planePosition={planePosition}
+        scale={planeScale}
+        position={planePosition}
         rotation={[0, 20, 0]}
         />
 
