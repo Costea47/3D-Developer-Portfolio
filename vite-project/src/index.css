@@ -38,6 +38,10 @@ body:has(.card[data-color="green"]:hover) {
     @apply bg-gradient-to-r from-[#00c6ff] to-[#0072ff] bg-clip-text text-transparent;
   }
 
+  .green-gradient_text {
+    @apply bg-gradient-to-r from-[#7addb7] to-[#0a8354] bg-clip-text text-transparent;
+  }
+
   .input {
     @apply bg-white border border-gray-200 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 mt-2.5 font-normal shadow-card;
   }
@@ -47,7 +51,7 @@ body:has(.card[data-color="green"]:hover) {
   }
 
   .btn {
-    @apply text-white bg-gradient-to-r from-[#00c6ff] to-[#0072ff] focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm w-full sm:w-auto px-5 py-2.5 text-center;
+    @apply text-white bg-gradient-to-r from-[#72d0ac] to-[#0a8354] focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm w-full sm:w-auto px-5 py-2.5 text-center;
   }
 
   .header {
@@ -63,11 +67,11 @@ body:has(.card[data-color="green"]:hover) {
   }
 
   .info-box {
-    @apply mx-5 relative flex text-white flex-col gap-3 max-w-2xl neo-brutalism-blue pt-4 pb-12 px-8;
+    @apply mx-5 relative flex text-white flex-col gap-3 max-w-2xl neo-brutalism-green pt-4 pb-12 px-8;
   }
 
   .neo-btn {
-    @apply py-3 px-6 rounded-lg text-blue-500 text-center font-semibold sm:w-1/2 w-[90%] -bottom-5 absolute mx-auto right-0 left-0 flex justify-center items-center gap-3;
+    @apply py-3 px-6 rounded-lg text-green-500 text-center font-semibold sm:w-1/2 w-[90%] -bottom-5 absolute mx-auto right-0 left-0 flex justify-center items-center gap-3;
   }
 
   .cta {
@@ -137,9 +141,12 @@ body:has(.card[data-color="green"]:hover) {
 .block-container .btn-back-pink {
   background: linear-gradient(135deg, #e81cff -20%, #40c9ff 120%);
 }
+.block-container .btn-back-grey {
+  background: linear-gradient(135deg, #646771 -20%, #e4e7e4 120%);
+}
 
 .block-container .btn-back-black {
-  background: linear-gradient(135deg, #0a1647 -20%, #e4e7e4 120%);
+  background: linear-gradient(135deg, #000001 -20%, #e4e7e4 120%);
 }
 
 .block-container .btn-front {
@@ -166,6 +173,23 @@ body:has(.card[data-color="green"]:hover) {
 }
 
 /* Neo Brutalism */
+.neo-brutalism-green {
+  background: #5bc2a5;
+  position: relative;
+  border-radius: 10px;
+  border: #6aaa98;
+  box-shadow: 0.6vmin 0.6vmin #85d3bd, 1vmin 1vmin #2cc79b, 1vmin 1vmin #2cc79b,
+    0.65vmin 1vmin #2cc79b, 1vmin 0.65vmin #2cc79b;
+}
+/* .neo-brutalism-green {
+  background: #5bc2a5;
+  position: relative;
+  border-radius: 10px;
+  border: #5bc2a5;
+  box-shadow: 0.6vmin 0.6vmin #48a589, 1vmin 1vmin #62d8b2, 1vmin 1vmin #62d8b2,
+    0.65vmin 1vmin #62d8b2, 1vmin 0.65vmin #62d8b2;
+} */
+
 .neo-brutalism-blue {
   background: #2b77e7;
   position: relative;
