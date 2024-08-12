@@ -43,7 +43,7 @@ Explore a visual demonstration of my portfolio in action:
 **Video Preview**:
 You can watch a video preview of the portfolio here:
 
-[Portfolio Video Preview](./src/assets/Video_24-07-29_17-40-47.mp4)
+[Portfolio Video Preview](.vite-project/src/assets/Video_24-07-29_17-40-47.mp4)
 
 ## How It Works
 
