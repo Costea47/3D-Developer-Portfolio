@@ -40,10 +40,12 @@ Explore a visual demonstration of my portfolio in action:
 
 **Live Demo**: [View the live site](https://soft-donut-03fb40.netlify.app/)
 
-**Video Preview**:
-You can watch a video preview of the portfolio here:
+\*The following images show the game's appearance and functionality:
 
-[Portfolio Video Preview](.vite-project/src/assets/Video_24-07-29_17-40-47.mp4)
+![Application Screenshot](/3D-Developer-Portfolio/vite-project/src/assets/images/screenshot.png)
+![Application Screenshot](/3D-Developer-Portfolio/vite-project/src/assets/images/screenshot2.png)
+![Application Screenshot](/3D-Developer-Portfolio/vite-project/src/assets/images/screenshot3.png)
+![Application Screenshot](/3D-Developer-Portfolio/vite-project/src/assets/images/screenshot4.png)
 
 ## How It Works
 
