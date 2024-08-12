@@ -42,10 +42,10 @@ Explore a visual demonstration of my portfolio in action:
 
 \*The following images show the game's appearance and functionality:
 
-![Application Screenshot](/3D-Developer-Portfolio/vite-project/src/assets/images/screenshot.png)
-![Application Screenshot](/3D-Developer-Portfolio/vite-project/src/assets/images/screenshot2.png)
-![Application Screenshot](/3D-Developer-Portfolio/vite-project/src/assets/images/screenshot3.png)
-![Application Screenshot](/3D-Developer-Portfolio/vite-project/src/assets/images/screenshot4.png)
+![Application Screenshot](/vite-project/src/assets/images/screenshot.png)
+![Application Screenshot](/vite-project/src/assets/images/screenshot2.png)
+![Application Screenshot](/vite-project/src/assets/images/screenshot3.png)
+![Application Screenshot](/vite-project/src/assets/images/screenshot4.png)
 
 ## How It Works
 
