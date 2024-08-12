@@ -4,6 +4,8 @@
 
 This web portfolio represents my ongoing journey and growth as a Junior Software Developer. Following the completion of my bootcamp, I’ve continued to expand my skills and knowledge, applying new technologies and concepts to showcase my projects. This portfolio not only highlights the work I’ve done but also serves as a platform for me to explore and integrate new technologies, demonstrating my continuous learning and development. The project is built with a modern stack of technologies to ensure a rich and interactive experience across various devices.
 
+https://soft-donut-03fb40.netlify.app/
+
 ## Features
 
 - **Interactive 3D Models**: The portfolio features an engaging 3D scene with an island and animated elements that respond to user interactions. This is implemented using **Three.js** and **@react-three/fiber** for rendering the 3D content, making the experience visually appealing and immersive.
